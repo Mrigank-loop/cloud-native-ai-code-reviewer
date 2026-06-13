@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+    background: #1e293b;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+pre {
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 10px;
+}
